@@ -1,6 +1,6 @@
 # String Extend  
 
-extensions to ruby's String class. started from Beginning Ruby tutorial in creating a gem  
+gem to extend ruby's String class. started from Beginning Ruby tutorial in creating a gem  
 
 ## Installation  
 
